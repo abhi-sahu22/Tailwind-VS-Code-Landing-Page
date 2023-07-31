@@ -1,2 +1,9 @@
 # Tailwind-VS-Code-Landing-Page
  
+## IT IS MADE WITH TAILWIND CDN
+
+## NO NPM BUILD IS USED
+
+### THIS REPLICA IS MADE RESPONSIVE FOR BOTH DESKTOP AND MOBILE VIEWPORT
+
+### [LIVE LINK](https://vscode-abhi.netlify.app)
